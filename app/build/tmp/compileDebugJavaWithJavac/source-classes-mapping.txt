@@ -1,0 +1,14 @@
+com/example/android/java/utilities/FileHelper.java
+ com.example.android.java.utilities.FileHelper
+com/example/android/java/BuildConfig.java
+ com.example.android.java.BuildConfig
+com/example/android/java/AsyncFragment.java
+ com.example.android.java.AsyncFragment
+ com.example.android.java.AsyncFragment$ParentActivity
+com/example/android/java/utilities/AudioHelper.java
+ com.example.android.java.utilities.AudioHelper
+ com.example.android.java.utilities.AudioHelper$1
+com/example/android/java/utilities/ActivityHelper.java
+ com.example.android.java.utilities.ActivityHelper
+com/example/android/java/MainActivity.java
+ com.example.android.java.MainActivity

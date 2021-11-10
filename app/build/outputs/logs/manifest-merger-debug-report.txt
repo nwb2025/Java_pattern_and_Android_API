@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/f4386ba2ac7bbf79bc2aa6966e82e0b7/transformed/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e6302dcb34a7986bbaa6444cab3feda2/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/b2795b48d8ab467649ce5c3c58f001f9/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/2c3e3a9ac21b1ff88cce4fefe359bf18/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/a06ab6702d27087ceea63df7d6ea044d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/ef539362050d3ba91c50819802d8dcc0/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/118ba439383f4a4f9b2fa4253bab493a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/aa17b169a4113397340e297c45408542/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/364a1eb3e4e2b0c85edb8dfd57930e1c/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/b0fa1ffacbc04be150459d0a32cc61ee/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/c06a73f2a169df763d14f2f8cc9847a6/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/3e9ec63a855fb48fb584b985d4f369d5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/f03a6fc4f478f215780c2e6e2bef69bd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/81e028a0cbbcd6e377bc74b8b42912c0/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8e3aa1271eb4a449059ff15fd1b4356e/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8bf9d25667f35655c32df437b42f89bb/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/be6430cb64207c5d845dc42165e34d27/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/d0f2d7445149f92c0685be5923397523/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/14a84f9ccdb718964cdeacd781944c17/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e44ff3e9619d2067b2dc04f06d99793a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/202909fd936e2ffcb7273cb1d684d97d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/779982e219ddd4f53789a84a7f7de7df/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e97d51875c921cb5fbf8ed439588bad1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/a6bebeff7840a0d9b1096ed88dc72966/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/d0aea753dd184bf8e2f3ae301941cbd1/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8a442241a94a737ee941c1900e6abb67/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.core:core:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8e3aa1271eb4a449059ff15fd1b4356e/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8e3aa1271eb4a449059ff15fd1b4356e/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8bf9d25667f35655c32df437b42f89bb/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8bf9d25667f35655c32df437b42f89bb/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8e3aa1271eb4a449059ff15fd1b4356e/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.java.MainActivity
+ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/f4386ba2ac7bbf79bc2aa6966e82e0b7/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/f4386ba2ac7bbf79bc2aa6966e82e0b7/transformed/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e6302dcb34a7986bbaa6444cab3feda2/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e6302dcb34a7986bbaa6444cab3feda2/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/b2795b48d8ab467649ce5c3c58f001f9/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/b2795b48d8ab467649ce5c3c58f001f9/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/2c3e3a9ac21b1ff88cce4fefe359bf18/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/2c3e3a9ac21b1ff88cce4fefe359bf18/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/a06ab6702d27087ceea63df7d6ea044d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/a06ab6702d27087ceea63df7d6ea044d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/ef539362050d3ba91c50819802d8dcc0/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/ef539362050d3ba91c50819802d8dcc0/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/118ba439383f4a4f9b2fa4253bab493a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/118ba439383f4a4f9b2fa4253bab493a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/aa17b169a4113397340e297c45408542/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/aa17b169a4113397340e297c45408542/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/364a1eb3e4e2b0c85edb8dfd57930e1c/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/364a1eb3e4e2b0c85edb8dfd57930e1c/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/b0fa1ffacbc04be150459d0a32cc61ee/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/b0fa1ffacbc04be150459d0a32cc61ee/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/c06a73f2a169df763d14f2f8cc9847a6/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/c06a73f2a169df763d14f2f8cc9847a6/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/3e9ec63a855fb48fb584b985d4f369d5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/3e9ec63a855fb48fb584b985d4f369d5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/f03a6fc4f478f215780c2e6e2bef69bd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/f03a6fc4f478f215780c2e6e2bef69bd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/81e028a0cbbcd6e377bc74b8b42912c0/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/81e028a0cbbcd6e377bc74b8b42912c0/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8e3aa1271eb4a449059ff15fd1b4356e/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8e3aa1271eb4a449059ff15fd1b4356e/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8bf9d25667f35655c32df437b42f89bb/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8bf9d25667f35655c32df437b42f89bb/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/be6430cb64207c5d845dc42165e34d27/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/be6430cb64207c5d845dc42165e34d27/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/d0f2d7445149f92c0685be5923397523/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/d0f2d7445149f92c0685be5923397523/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/14a84f9ccdb718964cdeacd781944c17/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/14a84f9ccdb718964cdeacd781944c17/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e44ff3e9619d2067b2dc04f06d99793a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e44ff3e9619d2067b2dc04f06d99793a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/202909fd936e2ffcb7273cb1d684d97d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/202909fd936e2ffcb7273cb1d684d97d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/779982e219ddd4f53789a84a7f7de7df/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/779982e219ddd4f53789a84a7f7de7df/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e97d51875c921cb5fbf8ed439588bad1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/e97d51875c921cb5fbf8ed439588bad1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/a6bebeff7840a0d9b1096ed88dc72966/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/a6bebeff7840a0d9b1096ed88dc72966/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/d0aea753dd184bf8e2f3ae301941cbd1/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/d0aea753dd184bf8e2f3ae301941cbd1/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8a442241a94a737ee941c1900e6abb67/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/newwealthbuilder/.gradle/caches/transforms-3/8a442241a94a737ee941c1900e6abb67/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/newwealthbuilder/Desktop/Ex_Files_Java_Android_Upd/Exercise Files/Ch01/01_03/CodeRunner/app/src/main/AndroidManifest.xml

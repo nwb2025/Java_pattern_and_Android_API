@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeRunner</string>
+    <string name="run_code">Run code</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="clear">Clear</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+</resources>
